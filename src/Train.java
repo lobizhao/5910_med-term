@@ -32,4 +32,5 @@ public class Train {
         return String.format("Train Number:\t%d\tOrigin:\t%s\tDestination:\t%s\tScheduled:\t%d:%d\tActual:\t%d:%d\t",
                 id, originCity, destinationCity, scheduledHour, scheduledMinute, actualHour, actualMinute);
     }
+    // i wanna try git submmit process
 }
