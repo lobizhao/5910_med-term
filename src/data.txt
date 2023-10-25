@@ -1,0 +1,181 @@
+Boston, MA
+4
+425
+00:46
+01:16
+Newark, NJ
+863
+07:50
+07:50
+Washington, D.C.
+203
+13:00
+13:00
+New York, NY
+963
+15:11
+14:59
+Providence, RI
+2
+793
+03:18
+03:18
+Providence, RI
+590
+22:47
+22:47
+Washington, D.C.
+Providence, RI
+2
+793
+03:49
+03:49
+Boston, MA
+3
+11:45
+11:46
+Baltimore, MD
+2
+963
+14:31
+14:31
+Boston, MA
+53
+15:15
+15:20
+New York, NY
+New York, NY
+4
+391
+10:25
+10:25
+Newark, NJ
+109
+14:05
+14:05
+Philadelphia, PA
+298
+15:40
+15:45
+Washington, D.C.
+53
+18:55
+18:55
+Providence, RI
+5
+410
+05:51
+05:51
+Baltimore, MD
+916
+08:42
+08:42
+Philadelphia, PA
+203
+10:01
+10:03
+Boston, MA
+159
+13:43
+13:43
+Washington, D.C.
+422
+18:15
+18:15
+Newark, NJ
+Newark, NJ
+2
+493
+07:37
+07:47
+Philadelphia, PA
+422
+18:44
+18:44
+New York, NY
+2
+391
+09:43
+09:43
+New York, NY
+425
+19:59
+20:19
+Boston, MA
+Philadelphia, PA
+3
+916
+10:17
+10:17
+New York, NY
+217
+14:05
+14:05
+Baltimore, MD
+881
+19:33
+22:33
+Washington, D.C.
+3
+493
+06:37
+06:47
+Newark, NJ
+109
+12:05
+12:35
+New York, NY
+472
+13:06
+13:06
+Washington, D.C.
+Baltimore, MD
+1
+410
+09:30
+09:40
+New York, NY
+3
+3
+06:20
+06:20
+Providence, RI
+794
+08:22
+08:25
+Washington, D.C.
+217
+12:26
+12:26
+Philadelphia, PA
+Washington, D.C.
+4
+590
+05:31
+05:45
+Boston, MA
+794
+09:04
+09:04
+Baltimore, MD
+472
+15:06
+15:06
+Philadelphia, PA
+159
+16:28
+16:28
+New York, NY
+3
+863
+01:05
+01:05
+Boston, MA
+298
+13:40
+13:40
+New York, NY
+881
+17:27
+20:27
+Philadelphia, PA
